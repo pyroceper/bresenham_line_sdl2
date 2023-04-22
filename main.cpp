@@ -75,7 +75,7 @@ int main(int argc, char * argv[])
             }
         }
 
-        SDL_SetRenderDrawColor(renderer, 255, 255, 255, 0);//teal
+        SDL_SetRenderDrawColor(renderer, 0, 50, 50, 0);//teal
         SDL_RenderClear(renderer);
         
 
